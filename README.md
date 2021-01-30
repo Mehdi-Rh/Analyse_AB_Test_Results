@@ -10,7 +10,7 @@ countries: user_id, country
 
 
 
-## Introduction
+## Project Overview
 
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
 In this notebook, an A/B test is runned by an e-commerce website, the goal is to understand if the company shouldimplement the new page , keep the old page or run the expriment longer to make their decision
